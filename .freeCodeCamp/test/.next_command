@@ -158,3 +158,4 @@ cp students.csv students_test.csv
 psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 ./insert_data.sh
+ls --color=auto
