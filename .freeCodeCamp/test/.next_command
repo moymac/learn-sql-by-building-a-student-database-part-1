@@ -78,3 +78,17 @@ __vsc_prompt_cmd_original
 \L
 \l
 psql --username=freecodecamp --dbname=postgres
+CREATE DATABASE students
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+\q
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+psql --username=freecodecamp --dbname=postgres
