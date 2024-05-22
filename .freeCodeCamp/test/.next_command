@@ -77,3 +77,4 @@ psql --username=freecodecamp --dbname=postgres
 __vsc_prompt_cmd_original
 \L
 \l
+psql --username=freecodecamp --dbname=postgres
